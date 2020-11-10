@@ -8,6 +8,9 @@
 <a href="https://github.com/Pedrooliver13">
   <img align="left" alt="Pedro Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733609.svg" />
 </a>
+<a href="https://open.spotify.com/playlist/190lNNClWGM5j7euVu97DV">
+  <img align="left" alt="Pedro spotify" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111624.svg" />
+</a>
 
 <br>
 <br>
