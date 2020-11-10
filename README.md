@@ -14,7 +14,7 @@
 
 Hi, I'm Pedro Oliveira, a Front-end Developer 🚀 from Brazil.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 Enthusiast of the best web development technologies.
 Experience in developing web applications using technologies HTML, CSS/SASS, JavaScript, React.js and Node.
