@@ -36,5 +36,7 @@ Currently these are the technologies that I know most:
 
 “You better try something, see it not work and learn from it, than do nothing ”- Mark Zuckerberg
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOliver13&layout=compact&show_icons=true&title_color=637fff&icon_color=637fff)
+
    [React JS]: <https://pt-br.reactjs.org>
    [Node.js]: <http://nodejs.org>
