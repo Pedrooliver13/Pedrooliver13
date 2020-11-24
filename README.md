@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/pedro-oliver/">
   <img align="left" alt="Pedro linkedin" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
-<a href="https://www.instagram.com/pedro.oliveira.13/">
-  <img align="left" alt="Pedro Instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
-</a>
 <a href="https://github.com/Pedrooliver13">
   <img align="left" alt="Pedro Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733609.svg" />
 </a>
