@@ -39,5 +39,9 @@ Currently these are the technologies that I know most:
 
 “You better try something, see it not work and learn from it, than do nothing ”- Mark Zuckerberg
 
+**Profile Views**
+
+![Visitor Count](https://profile-counter.glitch.me/{Pedrooliver13}/count.svg)
+
    [React JS]: <https://pt-br.reactjs.org>
    [Node.js]: <http://nodejs.org>
