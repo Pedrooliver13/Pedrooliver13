@@ -1,8 +1,8 @@
 # Hi, I'm Pedro Oliveira.
-<a href="https://www.linkedin.com/in/pedro-oliver/">
+<a href="https://www.linkedin.com/in/pedro-oliver/" target="_blank">
   <img align="left" alt="Pedro linkedin" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
-<a href="https://open.spotify.com/playlist/190lNNClWGM5j7euVu97DV">
+<a href="https://open.spotify.com/playlist/190lNNClWGM5j7euVu97DV" target="_blank">
   <img align="left" alt="Pedro spotify" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111624.svg" />
 </a>
 
