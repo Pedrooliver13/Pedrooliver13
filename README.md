@@ -1,9 +1,9 @@
 # Hi, I'm Pedro Oliveira.
 <a href="https://www.linkedin.com/in/pedro-oliver/" target="_blank">
-  <img align="left" alt="Pedro linkedin" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+  <img align="left" alt="Pedro linkedin" width="30px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1638449643~hmac=ff4feff64d18831b14bb6c11cf5d3195" />
 </a>
 <a href="https://open.spotify.com/playlist/190lNNClWGM5j7euVu97DV" target="_blank">
-  <img align="left" alt="Pedro spotify" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111624.svg" />
+  <img align="left" alt="Pedro spotify" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />
 </a>
 
 <br>
