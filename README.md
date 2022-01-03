@@ -1,25 +1,9 @@
 # Hi, I'm Pedro Oliveira.
 
-
-
-
 <!-- <p align="center">
   <img align="center" width="100%"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </p> -->
-  <img align="center" width="100%"  alt="GIF" src="dev.jpeg" />
-  
-<br>
-<br>
-
-<a href="https://www.linkedin.com/in/pedro-oliver/" target="_blank">
-  <img align="left" alt="Pedro linkedin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://open.spotify.com/playlist/190lNNClWGM5j7euVu97DV" target="_blank">
-  <img align="left" alt="Pedro spotify" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />
-</a>
-
-<br>
-<br>
+<img align="center" width="100%"  alt="GIF" src="dev.jpeg" />
 
 ### :book: About Me
 
@@ -46,16 +30,16 @@ Currently these are the technologies that I know most:
   
 </p>
 
+---
+
 ###
 
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrooliver13&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooliver13&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img width="550px"  src="https://github-readme-stats.vercel.app/api?username=Pedrooliver13&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooliver13&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 </p>
-
-“You better try something, see it not work and learn from it, than do nothing ”- Mark Zuckerberg
 
 **Profile Views**
 
