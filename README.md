@@ -1,4 +1,16 @@
 # Hi, I'm Pedro Oliveira.
+
+
+
+
+<!-- <p align="center">
+  <img align="center" width="100%"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</p> -->
+  <img align="center" width="100%"  alt="GIF" src="dev.jpeg" />
+  
+<br>
+<br>
+
 <a href="https://www.linkedin.com/in/pedro-oliver/" target="_blank">
   <img align="left" alt="Pedro linkedin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
@@ -9,9 +21,7 @@
 <br>
 <br>
 
-<!-- <p align="center">
-  <img align="center" width="100%"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</p> -->
+### :book: About Me
 
 Hi, I'm Pedro Oliveira, a Front-end Developer 🚀 from Brazil.
 
