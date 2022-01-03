@@ -30,17 +30,19 @@ Currently these are the technologies that I know most:
   
 </p>
 
+### :eyes: Profile Views
+
+![Visitor Count](https://profile-counter.glitch.me/{Pedrooliver13}/count.svg)
+
 ---
 
 ###
 
 📈 **My GitHub Stats:**
 
-<p>
-  <img width="556px"  src="https://github-readme-stats.vercel.app/api?username=Pedrooliver13&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
-  <img width="406px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooliver13&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Pedrooliver13&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooliver13&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
-**Profile Views**
 
-![Visitor Count](https://profile-counter.glitch.me/{Pedrooliver13}/count.svg)
