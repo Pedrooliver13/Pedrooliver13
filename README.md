@@ -9,11 +9,11 @@
 <br>
 <br>
 
-Hi, I'm Pedro Oliveira, a Front-end Developer 🚀 from Brazil. <br />
-Enthusiast of the best web development technologies.
+<!-- <p align="center">
+  <img align="center" width="100%"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</p> -->
 
-<img align="center" width="500px"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
+Hi, I'm Pedro Oliveira, a Front-end Developer 🚀 from Brazil.
 
 ### :computer:  Techs
 
@@ -37,7 +37,6 @@ Currently these are the technologies that I know most:
 </p>
 
 ###
-###
 
 📈 **My GitHub Stats:**
 
@@ -51,6 +50,3 @@ Currently these are the technologies that I know most:
 **Profile Views**
 
 ![Visitor Count](https://profile-counter.glitch.me/{Pedrooliver13}/count.svg)
-
-   [React JS]: <https://pt-br.reactjs.org>
-   [Node.js]: <http://nodejs.org>
