@@ -30,9 +30,20 @@ Currently these are the technologies that I know most:
   
 </p>
 
+
+
 ### :eyes: Profile Views
 
+<p align="center">
+
 ![Visitor Count](https://profile-counter.glitch.me/{Pedrooliver13}/count.svg)
+<img align="right" height="35" href="https://open.spotify.com/playlist/190lNNClWGM5j7euVu97DV?si=481e53e997634a1f" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />
+<img align="right" href="" height="35" href="https://www.linkedin.com/in/pedro-oliver/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+ 
+</p>
+
+  
+
 
 ---
 
